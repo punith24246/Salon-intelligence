@@ -1,0 +1,1001 @@
+review_id,customer_id,booking_id,service_type,rating,review_text,sentiment,review_date
+REV0001,CUST0355,BK01227,Pedicure,5,The staff is very skilled and the ambience is lovely.,Positive,2026-03-22
+REV0002,CUST0408,BK00033,Pedicure,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-03
+REV0003,CUST0306,BK01939,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2026-03-14
+REV0004,CUST0029,BK00274,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-10-23
+REV0005,CUST0476,BK04904,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-02-10
+REV0006,CUST0211,BK03334,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2024-07-01
+REV0007,CUST0027,BK04497,Waxing,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-08-10
+REV0008,CUST0355,BK03571,Bridal Package,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2025-01-04
+REV0009,CUST0077,BK01180,Facial,5,The staff is very skilled and the ambience is lovely.,Positive,2024-07-07
+REV0010,CUST0376,BK04433,Facial,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-06-08
+REV0011,CUST0318,BK04923,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-04-19
+REV0012,CUST0162,BK04068,Manicure,5,Punctual and professional. My go-to salon from now on.,Positive,2024-05-10
+REV0013,CUST0127,BK02752,Waxing,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-07-22
+REV0014,CUST0416,BK01287,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2024-08-31
+REV0015,CUST0328,BK03191,Haircut,2,The place needs better maintenance and cleanliness.,Negative,2025-12-24
+REV0016,CUST0400,BK02711,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2026-02-14
+REV0017,CUST0415,BK02729,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-11-04
+REV0018,CUST0063,BK00516,Hair Spa,4,Best salon in Nellore! Will definitely come back.,Positive,2025-11-15
+REV0019,CUST0439,BK00656,Facial,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-01-28
+REV0020,CUST0297,BK03501,Waxing,4,Quick service and great results. Highly recommend.,Positive,2026-05-04
+REV0021,CUST0446,BK04847,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-08-20
+REV0022,CUST0121,BK01627,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-02-17
+REV0023,CUST0204,BK04989,Facial,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-12-20
+REV0024,CUST0078,BK00098,Hair Spa,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-08-05
+REV0025,CUST0358,BK00319,Facial,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-01-11
+REV0026,CUST0478,BK03642,Hair Spa,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-04-07
+REV0027,CUST0138,BK04537,Hair Spa,5,Excellent bridal package. Made my wedding day perfect!,Positive,2026-01-22
+REV0028,CUST0005,BK01084,Manicure,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-06-10
+REV0029,CUST0251,BK01239,Hair Colour,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2024-12-28
+REV0030,CUST0315,BK01192,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-10-17
+REV0031,CUST0407,BK02647,Facial,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-07-02
+REV0032,CUST0123,BK02783,Facial,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-12-21
+REV0033,CUST0483,BK00466,Hair Colour,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2024-08-14
+REV0034,CUST0207,BK01883,Hair Spa,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-10-08
+REV0035,CUST0067,BK03557,Hair Colour,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-02-11
+REV0036,CUST0170,BK01899,Hair Spa,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-06-04
+REV0037,CUST0297,BK01148,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2026-04-22
+REV0038,CUST0484,BK01943,Hair Colour,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-09-17
+REV0039,CUST0292,BK03533,Waxing,1,Waiting time is too long. They don't respect appointments.,Negative,2025-09-14
+REV0040,CUST0118,BK03554,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-02-05
+REV0041,CUST0350,BK03384,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-07-11
+REV0042,CUST0270,BK01411,Hair Spa,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-12-06
+REV0043,CUST0339,BK01546,Waxing,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-09-30
+REV0044,CUST0114,BK01450,Hair Colour,5,Quick service and great results. Highly recommend.,Positive,2025-02-19
+REV0045,CUST0324,BK02635,Manicure,2,Pricing is not transparent. Hidden charges were added at billing.,Negative,2025-09-25
+REV0046,CUST0074,BK01031,Waxing,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-14
+REV0047,CUST0317,BK00904,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-04-06
+REV0048,CUST0036,BK01882,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-08-09
+REV0049,CUST0282,BK03539,Waxing,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-09-22
+REV0050,CUST0423,BK00600,Hair Spa,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-06-26
+REV0051,CUST0179,BK02029,Manicure,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-08-10
+REV0052,CUST0477,BK01777,Waxing,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-10-05
+REV0053,CUST0025,BK04604,Hair Colour,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-09-28
+REV0054,CUST0298,BK03879,Hair Spa,4,Quick service and great results. Highly recommend.,Positive,2026-01-06
+REV0055,CUST0189,BK00833,Waxing,2,The staff was rude and did not listen to my requirements.,Negative,2026-03-23
+REV0056,CUST0464,BK04408,Hair Colour,3,"Mixed experience. Some services were great, others average.",Neutral,2024-07-08
+REV0057,CUST0113,BK04319,Hair Spa,5,Quick service and great results. Highly recommend.,Positive,2026-01-24
+REV0058,CUST0449,BK02485,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-10-24
+REV0059,CUST0027,BK02260,Facial,5,Punctual and professional. My go-to salon from now on.,Positive,2024-11-08
+REV0060,CUST0112,BK03914,Manicure,4,Best salon in Nellore! Will definitely come back.,Positive,2024-11-01
+REV0061,CUST0167,BK03799,Hair Colour,2,Salon was not clean. Hygiene standards need serious improvement.,Negative,2024-12-22
+REV0062,CUST0318,BK04296,Hair Spa,3,Average experience. The waiting time was a bit long.,Neutral,2024-06-02
+REV0063,CUST0419,BK01249,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2024-12-06
+REV0064,CUST0482,BK03558,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-27
+REV0065,CUST0061,BK03916,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2025-01-25
+REV0066,CUST0204,BK02426,Manicure,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2025-10-15
+REV0067,CUST0252,BK01218,Facial,3,"Mixed experience. Some services were great, others average.",Neutral,2024-09-05
+REV0068,CUST0492,BK00531,Facial,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-05-06
+REV0069,CUST0222,BK01978,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2025-02-18
+REV0070,CUST0092,BK03043,Haircut,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-01-02
+REV0071,CUST0489,BK00285,Manicure,1,Staff behaviour was very poor. Will not return.,Negative,2025-08-29
+REV0072,CUST0336,BK03804,Hair Colour,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-12-18
+REV0073,CUST0368,BK03969,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-03-17
+REV0074,CUST0294,BK02529,Manicure,5,Best salon in Nellore! Will definitely come back.,Positive,2026-03-22
+REV0075,CUST0488,BK01758,Hair Colour,2,Too expensive compared to other salons in the area.,Negative,2024-12-05
+REV0076,CUST0189,BK02450,Waxing,4,The staff is very skilled and the ambience is lovely.,Positive,2025-07-19
+REV0077,CUST0256,BK01449,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2026-02-18
+REV0078,CUST0487,BK00150,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-12-13
+REV0079,CUST0408,BK04723,Hair Colour,3,Service was fine but the pricing is slightly high.,Neutral,2024-05-14
+REV0080,CUST0374,BK01270,Hair Colour,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-09-21
+REV0081,CUST0085,BK04609,Haircut,1,The place needs better maintenance and cleanliness.,Negative,2025-03-11
+REV0082,CUST0043,BK00587,Haircut,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-03-11
+REV0083,CUST0282,BK02932,Haircut,5,Quick service and great results. Highly recommend.,Positive,2026-02-26
+REV0084,CUST0063,BK00624,Facial,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-10-16
+REV0085,CUST0124,BK02948,Pedicure,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-07-08
+REV0086,CUST0493,BK03590,Hair Colour,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-02-27
+REV0087,CUST0376,BK00317,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-09-13
+REV0088,CUST0187,BK01009,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2024-07-26
+REV0089,CUST0265,BK02719,Hair Spa,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-01-21
+REV0090,CUST0290,BK03843,Hair Colour,5,Punctual and professional. My go-to salon from now on.,Positive,2026-01-05
+REV0091,CUST0244,BK02916,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-08-28
+REV0092,CUST0452,BK00387,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-09-25
+REV0093,CUST0159,BK04614,Waxing,2,The staff was rude and did not listen to my requirements.,Negative,2025-07-28
+REV0094,CUST0359,BK00551,Hair Spa,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-11-23
+REV0095,CUST0014,BK02964,Waxing,3,"Mixed experience. Some services were great, others average.",Neutral,2025-01-28
+REV0096,CUST0209,BK00820,Hair Spa,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-05-29
+REV0097,CUST0323,BK00301,Waxing,1,The staff was rude and did not listen to my requirements.,Negative,2025-01-11
+REV0098,CUST0055,BK03535,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-05-18
+REV0099,CUST0009,BK03720,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2026-04-04
+REV0100,CUST0040,BK00481,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2025-03-25
+REV0101,CUST0316,BK01388,Hair Spa,4,Punctual and professional. My go-to salon from now on.,Positive,2024-11-15
+REV0102,CUST0232,BK01857,Manicure,1,Staff behaviour was very poor. Will not return.,Negative,2025-02-21
+REV0103,CUST0337,BK02063,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2026-01-23
+REV0104,CUST0171,BK01391,Manicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-02-24
+REV0105,CUST0322,BK02861,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-06-17
+REV0106,CUST0173,BK01830,Waxing,3,"Mixed experience. Some services were great, others average.",Neutral,2026-04-25
+REV0107,CUST0456,BK04189,Waxing,2,Overpriced for the quality of service provided.,Negative,2024-07-28
+REV0108,CUST0302,BK01472,Hair Spa,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-05-13
+REV0109,CUST0196,BK03704,Manicure,5,The staff is very skilled and the ambience is lovely.,Positive,2025-11-26
+REV0110,CUST0057,BK01513,Waxing,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-04-12
+REV0111,CUST0116,BK02622,Facial,3,Average experience. The waiting time was a bit long.,Neutral,2024-10-14
+REV0112,CUST0270,BK00850,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-11-28
+REV0113,CUST0313,BK00480,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-10-05
+REV0114,CUST0070,BK03284,Hair Spa,4,Punctual and professional. My go-to salon from now on.,Positive,2024-09-15
+REV0115,CUST0260,BK03437,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-11-19
+REV0116,CUST0413,BK02353,Hair Spa,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-05-07
+REV0117,CUST0304,BK01871,Haircut,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-11-14
+REV0118,CUST0406,BK02522,Hair Colour,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-06-03
+REV0119,CUST0391,BK02612,Hair Spa,5,The staff is very skilled and the ambience is lovely.,Positive,2025-01-17
+REV0120,CUST0084,BK03807,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-09-16
+REV0121,CUST0236,BK01706,Haircut,4,Quick service and great results. Highly recommend.,Positive,2026-03-02
+REV0122,CUST0431,BK01987,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-02-23
+REV0123,CUST0303,BK00898,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-04-07
+REV0124,CUST0282,BK00061,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-06-22
+REV0125,CUST0183,BK03793,Facial,4,Best salon in Nellore! Will definitely come back.,Positive,2026-04-18
+REV0126,CUST0313,BK01600,Haircut,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-08-26
+REV0127,CUST0442,BK04046,Waxing,1,The place needs better maintenance and cleanliness.,Negative,2025-03-22
+REV0128,CUST0082,BK00725,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-12-07
+REV0129,CUST0129,BK04279,Hair Colour,4,Punctual and professional. My go-to salon from now on.,Positive,2025-12-12
+REV0130,CUST0057,BK00219,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-07-24
+REV0131,CUST0218,BK02870,Hair Colour,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-03-22
+REV0132,CUST0412,BK01189,Hair Spa,1,Staff behaviour was very poor. Will not return.,Negative,2025-08-02
+REV0133,CUST0420,BK04791,Bridal Package,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-01-18
+REV0134,CUST0287,BK00249,Waxing,3,Service was fine but the pricing is slightly high.,Neutral,2025-04-09
+REV0135,CUST0428,BK04859,Manicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-11-12
+REV0136,CUST0265,BK04010,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2024-09-17
+REV0137,CUST0086,BK02470,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2026-03-01
+REV0138,CUST0204,BK04165,Waxing,4,The staff is very skilled and the ambience is lovely.,Positive,2025-11-08
+REV0139,CUST0231,BK03556,Facial,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2025-05-19
+REV0140,CUST0471,BK04851,Hair Colour,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-07-01
+REV0141,CUST0057,BK01550,Bridal Package,4,Punctual and professional. My go-to salon from now on.,Positive,2025-01-20
+REV0142,CUST0353,BK01501,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2024-12-12
+REV0143,CUST0224,BK03583,Hair Spa,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-10-04
+REV0144,CUST0287,BK04899,Waxing,5,The staff is very skilled and the ambience is lovely.,Positive,2024-08-23
+REV0145,CUST0134,BK03789,Bridal Package,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-04-04
+REV0146,CUST0216,BK02047,Waxing,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-05-13
+REV0147,CUST0061,BK03747,Hair Colour,1,The place needs better maintenance and cleanliness.,Negative,2025-04-01
+REV0148,CUST0199,BK00122,Pedicure,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-08-27
+REV0149,CUST0413,BK03618,Hair Spa,4,Best salon in Nellore! Will definitely come back.,Positive,2025-11-20
+REV0150,CUST0319,BK00727,Waxing,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-12-10
+REV0151,CUST0210,BK03408,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-07-04
+REV0152,CUST0339,BK02128,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2025-05-11
+REV0153,CUST0294,BK04909,Bridal Package,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-02-20
+REV0154,CUST0161,BK01524,Hair Colour,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-05-23
+REV0155,CUST0380,BK04744,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-05-23
+REV0156,CUST0184,BK04431,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-01-24
+REV0157,CUST0031,BK03610,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-05-04
+REV0158,CUST0045,BK00571,Hair Colour,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-06-04
+REV0159,CUST0058,BK03803,Facial,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-10-06
+REV0160,CUST0350,BK03597,Pedicure,5,The staff is very skilled and the ambience is lovely.,Positive,2025-11-26
+REV0161,CUST0416,BK03271,Pedicure,2,Staff was unfriendly and unprofessional throughout.,Negative,2024-11-22
+REV0162,CUST0128,BK01653,Bridal Package,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-08-05
+REV0163,CUST0381,BK03856,Hair Spa,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-07-27
+REV0164,CUST0164,BK02072,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2024-06-06
+REV0165,CUST0284,BK00389,Waxing,3,Service was fine but the pricing is slightly high.,Neutral,2026-01-14
+REV0166,CUST0431,BK01125,Hair Colour,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-03-22
+REV0167,CUST0018,BK02414,Facial,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2024-08-16
+REV0168,CUST0137,BK00108,Bridal Package,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-07-14
+REV0169,CUST0435,BK04180,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-09-11
+REV0170,CUST0325,BK02321,Haircut,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-11-11
+REV0171,CUST0077,BK01180,Facial,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-07-07
+REV0172,CUST0229,BK02206,Hair Colour,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-10-26
+REV0173,CUST0455,BK00487,Hair Colour,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-08-29
+REV0174,CUST0240,BK00490,Waxing,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-11-05
+REV0175,CUST0170,BK01443,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-05-29
+REV0176,CUST0482,BK01880,Hair Spa,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-10-07
+REV0177,CUST0163,BK02180,Hair Spa,4,Best salon in Nellore! Will definitely come back.,Positive,2026-04-22
+REV0178,CUST0357,BK01208,Manicure,5,Quick service and great results. Highly recommend.,Positive,2026-04-24
+REV0179,CUST0282,BK00061,Haircut,4,Quick service and great results. Highly recommend.,Positive,2024-06-24
+REV0180,CUST0474,BK02872,Pedicure,2,Waited too long. No one even apologised for the delay.,Negative,2024-09-03
+REV0181,CUST0037,BK00078,Manicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-05-20
+REV0182,CUST0462,BK04273,Manicure,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-10-04
+REV0183,CUST0138,BK00338,Bridal Package,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-11-06
+REV0184,CUST0252,BK03588,Hair Spa,4,Best salon in Nellore! Will definitely come back.,Positive,2024-08-16
+REV0185,CUST0458,BK01130,Waxing,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-06-28
+REV0186,CUST0116,BK04013,Hair Colour,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-08-08
+REV0187,CUST0399,BK02628,Haircut,2,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2026-02-12
+REV0188,CUST0064,BK04756,Facial,5,Punctual and professional. My go-to salon from now on.,Positive,2025-10-11
+REV0189,CUST0224,BK03372,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-11-30
+REV0190,CUST0344,BK03958,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-08-29
+REV0191,CUST0103,BK03497,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-12-29
+REV0192,CUST0307,BK02852,Pedicure,2,The staff was rude and did not listen to my requirements.,Negative,2024-11-19
+REV0193,CUST0448,BK01599,Haircut,4,Punctual and professional. My go-to salon from now on.,Positive,2024-07-27
+REV0194,CUST0051,BK01701,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2024-09-15
+REV0195,CUST0065,BK02148,Hair Colour,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-03-18
+REV0196,CUST0348,BK00005,Hair Colour,3,"Mixed experience. Some services were great, others average.",Neutral,2025-09-30
+REV0197,CUST0334,BK00081,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-05-01
+REV0198,CUST0344,BK03798,Hair Colour,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-12-28
+REV0199,CUST0056,BK00378,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-08-13
+REV0200,CUST0216,BK00322,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-04-10
+REV0201,CUST0385,BK01480,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2025-06-18
+REV0202,CUST0355,BK04594,Pedicure,1,Waiting time is too long. They don't respect appointments.,Negative,2025-10-11
+REV0203,CUST0420,BK03058,Manicure,2,Pricing is not transparent. Hidden charges were added at billing.,Negative,2025-12-23
+REV0204,CUST0186,BK01795,Facial,4,Punctual and professional. My go-to salon from now on.,Positive,2025-12-04
+REV0205,CUST0344,BK02247,Bridal Package,5,The staff is very skilled and the ambience is lovely.,Positive,2025-07-28
+REV0206,CUST0099,BK00949,Hair Spa,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-05-01
+REV0207,CUST0167,BK03799,Hair Colour,4,Quick service and great results. Highly recommend.,Positive,2024-12-23
+REV0208,CUST0490,BK00650,Hair Colour,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-05-24
+REV0209,CUST0327,BK02618,Hair Spa,5,Punctual and professional. My go-to salon from now on.,Positive,2026-02-07
+REV0210,CUST0500,BK02400,Pedicure,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-18
+REV0211,CUST0371,BK01470,Facial,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-04-18
+REV0212,CUST0173,BK01830,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-04-25
+REV0213,CUST0329,BK02687,Hair Spa,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-03-24
+REV0214,CUST0212,BK01639,Bridal Package,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-06-09
+REV0215,CUST0007,BK01884,Waxing,3,Average experience. The waiting time was a bit long.,Neutral,2024-08-26
+REV0216,CUST0110,BK04467,Hair Colour,5,The staff is very skilled and the ambience is lovely.,Positive,2025-06-28
+REV0217,CUST0239,BK03892,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-10-07
+REV0218,CUST0478,BK03699,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-09-03
+REV0219,CUST0481,BK00499,Waxing,5,The staff is very skilled and the ambience is lovely.,Positive,2024-08-30
+REV0220,CUST0495,BK04919,Pedicure,4,Best salon in Nellore! Will definitely come back.,Positive,2026-03-15
+REV0221,CUST0442,BK04843,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-11-02
+REV0222,CUST0456,BK04409,Waxing,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-12-20
+REV0223,CUST0134,BK00731,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2024-06-28
+REV0224,CUST0113,BK03872,Waxing,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-14
+REV0225,CUST0422,BK02494,Pedicure,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-07-25
+REV0226,CUST0093,BK02807,Bridal Package,5,The staff is very skilled and the ambience is lovely.,Positive,2024-07-05
+REV0227,CUST0406,BK00437,Pedicure,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-11-28
+REV0228,CUST0111,BK04621,Haircut,2,Staff behaviour was very poor. Will not return.,Negative,2024-07-15
+REV0229,CUST0238,BK01654,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-05-31
+REV0230,CUST0128,BK02658,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2025-05-30
+REV0231,CUST0319,BK01422,Hair Spa,2,Salon was not clean. Hygiene standards need serious improvement.,Negative,2025-07-11
+REV0232,CUST0107,BK02365,Hair Colour,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-02-16
+REV0233,CUST0046,BK04138,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2024-05-23
+REV0234,CUST0189,BK04815,Hair Colour,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-09-11
+REV0235,CUST0127,BK02763,Haircut,1,Salon was not clean. Hygiene standards need serious improvement.,Negative,2025-11-13
+REV0236,CUST0267,BK00512,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-02-11
+REV0237,CUST0009,BK04595,Manicure,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-09-02
+REV0238,CUST0207,BK01761,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-08-31
+REV0239,CUST0088,BK03771,Haircut,4,Best salon in Nellore! Will definitely come back.,Positive,2026-03-22
+REV0240,CUST0302,BK02094,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-02-05
+REV0241,CUST0416,BK01662,Facial,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-06-16
+REV0242,CUST0315,BK01192,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-10-17
+REV0243,CUST0099,BK04198,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-03-21
+REV0244,CUST0044,BK03381,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-04-21
+REV0245,CUST0114,BK01450,Hair Colour,5,Punctual and professional. My go-to salon from now on.,Positive,2025-02-19
+REV0246,CUST0424,BK03286,Waxing,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-03-03
+REV0247,CUST0130,BK03837,Haircut,1,Salon was not clean. Hygiene standards need serious improvement.,Negative,2024-11-28
+REV0248,CUST0140,BK02460,Pedicure,4,Punctual and professional. My go-to salon from now on.,Positive,2024-09-15
+REV0249,CUST0082,BK03252,Hair Colour,5,Best salon in Nellore! Will definitely come back.,Positive,2025-11-03
+REV0250,CUST0269,BK03575,Pedicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-02-08
+REV0251,CUST0243,BK03706,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2024-09-05
+REV0252,CUST0183,BK01406,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-12-02
+REV0253,CUST0464,BK04713,Waxing,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-10-24
+REV0254,CUST0058,BK01527,Hair Colour,1,Waited too long. No one even apologised for the delay.,Negative,2026-02-28
+REV0255,CUST0032,BK04150,Hair Colour,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2025-05-08
+REV0256,CUST0221,BK02006,Facial,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-10-20
+REV0257,CUST0441,BK00962,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-07-29
+REV0258,CUST0420,BK02646,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-08-08
+REV0259,CUST0029,BK01109,Haircut,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2024-05-06
+REV0260,CUST0241,BK04932,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-03-22
+REV0261,CUST0326,BK00886,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-10-10
+REV0262,CUST0465,BK00118,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2025-06-28
+REV0263,CUST0307,BK01271,Waxing,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2025-01-12
+REV0264,CUST0477,BK02758,Hair Spa,5,Punctual and professional. My go-to salon from now on.,Positive,2024-11-10
+REV0265,CUST0089,BK03188,Facial,3,"Mixed experience. Some services were great, others average.",Neutral,2025-11-25
+REV0266,CUST0178,BK01836,Manicure,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-02-23
+REV0267,CUST0269,BK03507,Waxing,2,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2025-08-12
+REV0268,CUST0464,BK00931,Manicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-04-20
+REV0269,CUST0064,BK01477,Hair Colour,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-02-03
+REV0270,CUST0030,BK01532,Haircut,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-01-25
+REV0271,CUST0203,BK04248,Waxing,5,Punctual and professional. My go-to salon from now on.,Positive,2026-01-23
+REV0272,CUST0251,BK04826,Hair Spa,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-05-17
+REV0273,CUST0368,BK03482,Pedicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-07-31
+REV0274,CUST0315,BK04872,Hair Colour,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-06-28
+REV0275,CUST0233,BK03603,Facial,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-09-18
+REV0276,CUST0071,BK00905,Facial,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-10-15
+REV0277,CUST0092,BK00610,Hair Spa,3,"Mixed experience. Some services were great, others average.",Neutral,2025-09-14
+REV0278,CUST0283,BK02950,Hair Colour,5,Punctual and professional. My go-to salon from now on.,Positive,2024-09-01
+REV0279,CUST0500,BK04640,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-08-15
+REV0280,CUST0139,BK02504,Waxing,4,Punctual and professional. My go-to salon from now on.,Positive,2025-02-21
+REV0281,CUST0186,BK00022,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-08-28
+REV0282,CUST0261,BK03992,Haircut,2,The place needs better maintenance and cleanliness.,Negative,2025-04-04
+REV0283,CUST0217,BK00923,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2025-01-04
+REV0284,CUST0087,BK03644,Haircut,5,Quick service and great results. Highly recommend.,Positive,2025-01-22
+REV0285,CUST0406,BK03158,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-12-30
+REV0286,CUST0331,BK04659,Hair Colour,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-07-19
+REV0287,CUST0069,BK00247,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-01-12
+REV0288,CUST0485,BK04890,Haircut,2,Staff behaviour was very poor. Will not return.,Negative,2025-12-30
+REV0289,CUST0419,BK02516,Hair Spa,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-04-08
+REV0290,CUST0040,BK01320,Haircut,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-05-28
+REV0291,CUST0303,BK00157,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-07-18
+REV0292,CUST0175,BK03445,Pedicure,5,Best salon in Nellore! Will definitely come back.,Positive,2024-11-26
+REV0293,CUST0059,BK04070,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-07-11
+REV0294,CUST0386,BK04580,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-12-31
+REV0295,CUST0006,BK04993,Hair Colour,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-01-15
+REV0296,CUST0233,BK03622,Haircut,2,Staff behaviour was very poor. Will not return.,Negative,2024-09-12
+REV0297,CUST0192,BK02497,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-07-27
+REV0298,CUST0352,BK01360,Waxing,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-03-24
+REV0299,CUST0061,BK03654,Waxing,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-13
+REV0300,CUST0035,BK00124,Pedicure,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-11-22
+REV0301,CUST0050,BK03306,Bridal Package,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-05-09
+REV0302,CUST0327,BK02618,Hair Spa,4,Punctual and professional. My go-to salon from now on.,Positive,2026-02-08
+REV0303,CUST0416,BK00092,Facial,4,Quick service and great results. Highly recommend.,Positive,2024-10-27
+REV0304,CUST0222,BK03259,Waxing,2,Waited too long. No one even apologised for the delay.,Negative,2024-06-06
+REV0305,CUST0473,BK02954,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-03-08
+REV0306,CUST0101,BK02573,Pedicure,5,Punctual and professional. My go-to salon from now on.,Positive,2024-10-19
+REV0307,CUST0255,BK03250,Pedicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-08-17
+REV0308,CUST0292,BK03612,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-01-10
+REV0309,CUST0493,BK03590,Hair Colour,5,Excellent bridal package. Made my wedding day perfect!,Positive,2026-02-26
+REV0310,CUST0415,BK03657,Waxing,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-04-20
+REV0311,CUST0249,BK00726,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-02-13
+REV0312,CUST0342,BK00103,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-06-17
+REV0313,CUST0473,BK01641,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-12-03
+REV0314,CUST0438,BK02794,Facial,4,The staff is very skilled and the ambience is lovely.,Positive,2025-02-11
+REV0315,CUST0051,BK04230,Pedicure,2,The place needs better maintenance and cleanliness.,Negative,2024-09-02
+REV0316,CUST0204,BK04831,Pedicure,4,Best salon in Nellore! Will definitely come back.,Positive,2025-11-27
+REV0317,CUST0060,BK01814,Manicure,3,Service was fine but the pricing is slightly high.,Neutral,2025-10-02
+REV0318,CUST0303,BK00838,Facial,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-01-25
+REV0319,CUST0204,BK04165,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-11-09
+REV0320,CUST0015,BK00350,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-02-13
+REV0321,CUST0222,BK01671,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-01-27
+REV0322,CUST0446,BK00239,Hair Spa,5,Punctual and professional. My go-to salon from now on.,Positive,2026-01-26
+REV0323,CUST0483,BK04569,Waxing,2,Waited too long. No one even apologised for the delay.,Negative,2025-03-23
+REV0324,CUST0137,BK01842,Hair Colour,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-02-13
+REV0325,CUST0412,BK00079,Manicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-01-06
+REV0326,CUST0288,BK03904,Waxing,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-01-21
+REV0327,CUST0095,BK02782,Hair Spa,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-03-26
+REV0328,CUST0310,BK01516,Manicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-09-05
+REV0329,CUST0298,BK03278,Waxing,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-04-28
+REV0330,CUST0030,BK00265,Hair Spa,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-03-04
+REV0331,CUST0311,BK00999,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-05-16
+REV0332,CUST0230,BK01397,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-03
+REV0333,CUST0097,BK00668,Facial,1,The place needs better maintenance and cleanliness.,Negative,2024-07-26
+REV0334,CUST0417,BK04597,Manicure,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-02-24
+REV0335,CUST0186,BK01795,Facial,4,The staff is very skilled and the ambience is lovely.,Positive,2025-12-05
+REV0336,CUST0264,BK02335,Waxing,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-06-19
+REV0337,CUST0235,BK04424,Hair Spa,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-05-13
+REV0338,CUST0203,BK02671,Pedicure,5,Quick service and great results. Highly recommend.,Positive,2025-07-08
+REV0339,CUST0281,BK02733,Hair Colour,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-25
+REV0340,CUST0249,BK01911,Hair Spa,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-12-08
+REV0341,CUST0435,BK01510,Hair Spa,4,Quick service and great results. Highly recommend.,Positive,2025-12-14
+REV0342,CUST0228,BK02690,Waxing,4,Quick service and great results. Highly recommend.,Positive,2024-09-20
+REV0343,CUST0231,BK03556,Facial,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-05-19
+REV0344,CUST0249,BK00726,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-02-11
+REV0345,CUST0466,BK00688,Haircut,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-12-13
+REV0346,CUST0097,BK00399,Pedicure,3,"Mixed experience. Some services were great, others average.",Neutral,2026-03-07
+REV0347,CUST0454,BK00960,Hair Spa,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-06-15
+REV0348,CUST0037,BK00861,Waxing,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-07-14
+REV0349,CUST0051,BK01701,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-09-13
+REV0350,CUST0060,BK04596,Hair Colour,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-11-19
+REV0351,CUST0496,BK04842,Hair Colour,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-04-07
+REV0352,CUST0129,BK01529,Hair Spa,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-07-15
+REV0353,CUST0399,BK02697,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-05-10
+REV0354,CUST0210,BK04147,Facial,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-06-03
+REV0355,CUST0066,BK00665,Hair Spa,3,Average experience. The waiting time was a bit long.,Neutral,2024-10-21
+REV0356,CUST0089,BK01258,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-25
+REV0357,CUST0159,BK00302,Waxing,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-12-02
+REV0358,CUST0343,BK00862,Pedicure,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-08-05
+REV0359,CUST0135,BK03949,Pedicure,5,The staff is very skilled and the ambience is lovely.,Positive,2024-05-26
+REV0360,CUST0146,BK01872,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-05-09
+REV0361,CUST0487,BK04849,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2026-04-20
+REV0362,CUST0354,BK02172,Pedicure,5,The staff is very skilled and the ambience is lovely.,Positive,2025-05-17
+REV0363,CUST0453,BK01415,Manicure,1,The place needs better maintenance and cleanliness.,Negative,2025-01-04
+REV0364,CUST0136,BK01351,Pedicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-01-14
+REV0365,CUST0090,BK04967,Bridal Package,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-05-01
+REV0366,CUST0457,BK02952,Facial,1,Waited too long. No one even apologised for the delay.,Negative,2026-01-14
+REV0367,CUST0421,BK00218,Waxing,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-03-06
+REV0368,CUST0101,BK04340,Waxing,4,Best salon in Nellore! Will definitely come back.,Positive,2025-05-10
+REV0369,CUST0091,BK04384,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-09-16
+REV0370,CUST0028,BK00667,Facial,5,Quick service and great results. Highly recommend.,Positive,2025-11-04
+REV0371,CUST0391,BK02383,Manicure,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-09-14
+REV0372,CUST0072,BK02615,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-04-22
+REV0373,CUST0215,BK03317,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-04-20
+REV0374,CUST0420,BK03442,Waxing,1,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2024-09-23
+REV0375,CUST0174,BK04390,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-08-11
+REV0376,CUST0248,BK04133,Waxing,3,Average experience. The waiting time was a bit long.,Neutral,2025-12-26
+REV0377,CUST0421,BK02857,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-12-29
+REV0378,CUST0146,BK01872,Haircut,4,Best salon in Nellore! Will definitely come back.,Positive,2024-05-09
+REV0379,CUST0294,BK01000,Hair Spa,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-11-09
+REV0380,CUST0118,BK04863,Haircut,2,Waited too long. No one even apologised for the delay.,Negative,2026-01-26
+REV0381,CUST0085,BK04609,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-03-09
+REV0382,CUST0344,BK03958,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2024-08-29
+REV0383,CUST0463,BK01620,Pedicure,2,Salon was not clean. Hygiene standards need serious improvement.,Negative,2026-04-18
+REV0384,CUST0040,BK00158,Haircut,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-12-23
+REV0385,CUST0416,BK04561,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2024-12-13
+REV0386,CUST0284,BK03710,Hair Spa,4,Punctual and professional. My go-to salon from now on.,Positive,2024-05-15
+REV0387,CUST0059,BK03810,Hair Spa,2,Too expensive compared to other salons in the area.,Negative,2025-01-21
+REV0388,CUST0443,BK01709,Hair Spa,3,Service was fine but the pricing is slightly high.,Neutral,2024-11-22
+REV0389,CUST0364,BK02595,Facial,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-06-02
+REV0390,CUST0459,BK03593,Hair Colour,3,Service was fine but the pricing is slightly high.,Neutral,2025-06-14
+REV0391,CUST0500,BK04640,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-08-15
+REV0392,CUST0337,BK00483,Pedicure,3,Service was fine but the pricing is slightly high.,Neutral,2025-04-24
+REV0393,CUST0114,BK03348,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-03-13
+REV0394,CUST0304,BK02475,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-12-25
+REV0395,CUST0096,BK00983,Waxing,4,Best salon in Nellore! Will definitely come back.,Positive,2025-07-23
+REV0396,CUST0324,BK04244,Haircut,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-05-10
+REV0397,CUST0065,BK03882,Pedicure,2,Staff was unfriendly and unprofessional throughout.,Negative,2024-09-05
+REV0398,CUST0431,BK04350,Haircut,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-09-07
+REV0399,CUST0390,BK04019,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-11-23
+REV0400,CUST0477,BK01777,Waxing,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-04
+REV0401,CUST0472,BK01981,Hair Colour,4,Quick service and great results. Highly recommend.,Positive,2026-04-06
+REV0402,CUST0360,BK01304,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2024-12-07
+REV0403,CUST0074,BK01142,Facial,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-08-14
+REV0404,CUST0068,BK01364,Waxing,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-07-04
+REV0405,CUST0219,BK03469,Facial,5,Best salon in Nellore! Will definitely come back.,Positive,2025-12-22
+REV0406,CUST0316,BK03641,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-08-16
+REV0407,CUST0475,BK04618,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-02-21
+REV0408,CUST0167,BK03040,Waxing,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-06-07
+REV0409,CUST0194,BK04615,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-12-01
+REV0410,CUST0473,BK03725,Manicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-11-24
+REV0411,CUST0051,BK01701,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2024-09-14
+REV0412,CUST0108,BK04801,Hair Spa,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-07-14
+REV0413,CUST0270,BK01556,Facial,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-05-09
+REV0414,CUST0454,BK00960,Hair Spa,2,The place needs better maintenance and cleanliness.,Negative,2025-06-15
+REV0415,CUST0489,BK01444,Waxing,1,The staff was rude and did not listen to my requirements.,Negative,2025-12-25
+REV0416,CUST0111,BK04196,Facial,5,The staff is very skilled and the ambience is lovely.,Positive,2025-01-14
+REV0417,CUST0418,BK00368,Manicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-04-11
+REV0418,CUST0352,BK02779,Facial,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-06-29
+REV0419,CUST0272,BK00321,Haircut,1,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2024-08-25
+REV0420,CUST0325,BK02963,Bridal Package,5,Punctual and professional. My go-to salon from now on.,Positive,2025-06-24
+REV0421,CUST0032,BK03811,Waxing,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-10-11
+REV0422,CUST0498,BK00192,Manicure,1,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2024-06-02
+REV0423,CUST0314,BK01484,Hair Colour,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-06-04
+REV0424,CUST0011,BK02218,Hair Colour,1,Too expensive compared to other salons in the area.,Negative,2025-03-11
+REV0425,CUST0078,BK01533,Pedicure,1,Staff was unfriendly and unprofessional throughout.,Negative,2025-12-10
+REV0426,CUST0317,BK02075,Hair Colour,1,Overpriced for the quality of service provided.,Negative,2025-06-26
+REV0427,CUST0384,BK03700,Pedicure,4,Best salon in Nellore! Will definitely come back.,Positive,2024-08-26
+REV0428,CUST0111,BK04531,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2025-05-18
+REV0429,CUST0416,BK04561,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2024-12-14
+REV0430,CUST0474,BK01457,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-01-08
+REV0431,CUST0144,BK01033,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-10-17
+REV0432,CUST0364,BK00119,Pedicure,5,Punctual and professional. My go-to salon from now on.,Positive,2024-08-18
+REV0433,CUST0174,BK02918,Haircut,4,Quick service and great results. Highly recommend.,Positive,2025-07-12
+REV0434,CUST0439,BK04981,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-07-07
+REV0435,CUST0316,BK03004,Facial,4,Punctual and professional. My go-to salon from now on.,Positive,2024-05-28
+REV0436,CUST0148,BK01589,Facial,2,Staff was unfriendly and unprofessional throughout.,Negative,2025-01-23
+REV0437,CUST0192,BK00694,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-12-04
+REV0438,CUST0250,BK00230,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-03-02
+REV0439,CUST0304,BK03217,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2025-09-25
+REV0440,CUST0452,BK00387,Facial,2,Too expensive compared to other salons in the area.,Negative,2024-09-27
+REV0441,CUST0233,BK03633,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-12-19
+REV0442,CUST0225,BK00294,Bridal Package,5,Quick service and great results. Highly recommend.,Positive,2025-03-01
+REV0443,CUST0349,BK01090,Hair Colour,1,Waiting time is too long. They don't respect appointments.,Negative,2025-11-14
+REV0444,CUST0432,BK02356,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2025-04-05
+REV0445,CUST0349,BK02696,Pedicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-03-29
+REV0446,CUST0420,BK02159,Hair Spa,3,Average experience. The waiting time was a bit long.,Neutral,2026-02-12
+REV0447,CUST0087,BK02417,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-04-12
+REV0448,CUST0318,BK04288,Bridal Package,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-11-11
+REV0449,CUST0229,BK01300,Bridal Package,5,Best salon in Nellore! Will definitely come back.,Positive,2025-10-30
+REV0450,CUST0453,BK01784,Hair Colour,5,Quick service and great results. Highly recommend.,Positive,2024-07-04
+REV0451,CUST0364,BK02461,Manicure,5,Quick service and great results. Highly recommend.,Positive,2024-09-28
+REV0452,CUST0349,BK04514,Haircut,5,Quick service and great results. Highly recommend.,Positive,2025-12-10
+REV0453,CUST0294,BK01199,Pedicure,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-04-22
+REV0454,CUST0014,BK01010,Pedicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-08-27
+REV0455,CUST0457,BK01863,Waxing,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-04-04
+REV0456,CUST0375,BK02801,Manicure,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-04-23
+REV0457,CUST0184,BK01257,Hair Colour,4,Punctual and professional. My go-to salon from now on.,Positive,2025-02-10
+REV0458,CUST0500,BK03718,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-01-26
+REV0459,CUST0232,BK00924,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-02-27
+REV0460,CUST0255,BK02725,Facial,2,Too expensive compared to other salons in the area.,Negative,2026-02-12
+REV0461,CUST0352,BK02849,Waxing,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-02-17
+REV0462,CUST0447,BK00556,Pedicure,5,Quick service and great results. Highly recommend.,Positive,2024-12-19
+REV0463,CUST0353,BK01070,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2024-11-13
+REV0464,CUST0204,BK03146,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2024-09-15
+REV0465,CUST0417,BK01234,Bridal Package,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-06-15
+REV0466,CUST0393,BK02453,Manicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-07-24
+REV0467,CUST0448,BK02441,Bridal Package,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2026-02-13
+REV0468,CUST0286,BK04178,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-03-02
+REV0469,CUST0223,BK02088,Facial,2,Waited too long. No one even apologised for the delay.,Negative,2026-01-11
+REV0470,CUST0477,BK01158,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-09-29
+REV0471,CUST0205,BK00384,Manicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-05-01
+REV0472,CUST0090,BK04967,Bridal Package,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-05-01
+REV0473,CUST0081,BK03606,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-08-25
+REV0474,CUST0109,BK00085,Hair Colour,1,The staff was rude and did not listen to my requirements.,Negative,2024-08-30
+REV0475,CUST0377,BK03398,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2026-04-25
+REV0476,CUST0388,BK02375,Haircut,4,Punctual and professional. My go-to salon from now on.,Positive,2025-04-13
+REV0477,CUST0027,BK04497,Waxing,2,The place needs better maintenance and cleanliness.,Negative,2024-08-10
+REV0478,CUST0063,BK00243,Hair Spa,5,The staff is very skilled and the ambience is lovely.,Positive,2024-09-10
+REV0479,CUST0272,BK01581,Hair Colour,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-03-13
+REV0480,CUST0410,BK02631,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-11-06
+REV0481,CUST0306,BK01939,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2026-03-12
+REV0482,CUST0418,BK02526,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-05-17
+REV0483,CUST0456,BK04824,Waxing,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-01-03
+REV0484,CUST0328,BK00742,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-12-29
+REV0485,CUST0435,BK01757,Haircut,1,Waited too long. No one even apologised for the delay.,Negative,2025-02-17
+REV0486,CUST0045,BK03553,Hair Colour,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2026-01-26
+REV0487,CUST0033,BK03029,Bridal Package,4,The staff is very skilled and the ambience is lovely.,Positive,2025-12-04
+REV0488,CUST0109,BK01949,Hair Colour,3,"Mixed experience. Some services were great, others average.",Neutral,2024-09-09
+REV0489,CUST0162,BK00975,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-04-15
+REV0490,CUST0172,BK00471,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-01-08
+REV0491,CUST0055,BK03744,Hair Colour,3,Service was fine but the pricing is slightly high.,Neutral,2025-02-10
+REV0492,CUST0039,BK02315,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2025-07-17
+REV0493,CUST0202,BK02142,Pedicure,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-11-29
+REV0494,CUST0315,BK00912,Hair Spa,2,Waiting time is too long. They don't respect appointments.,Negative,2025-09-11
+REV0495,CUST0131,BK04494,Pedicure,4,Punctual and professional. My go-to salon from now on.,Positive,2025-05-29
+REV0496,CUST0216,BK03404,Waxing,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-12-08
+REV0497,CUST0457,BK04152,Pedicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-06-07
+REV0498,CUST0409,BK01329,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2024-12-15
+REV0499,CUST0068,BK04946,Bridal Package,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-04-20
+REV0500,CUST0140,BK02447,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2025-03-16
+REV0501,CUST0270,BK00199,Facial,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-08-11
+REV0502,CUST0343,BK03773,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-02-27
+REV0503,CUST0259,BK04983,Hair Colour,5,The staff is very skilled and the ambience is lovely.,Positive,2024-08-28
+REV0504,CUST0080,BK01294,Facial,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2024-12-25
+REV0505,CUST0316,BK04507,Pedicure,5,Punctual and professional. My go-to salon from now on.,Positive,2026-04-02
+REV0506,CUST0420,BK01511,Manicure,5,The staff is very skilled and the ambience is lovely.,Positive,2024-11-20
+REV0507,CUST0346,BK04735,Pedicure,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-04-02
+REV0508,CUST0016,BK02940,Pedicure,4,Quick service and great results. Highly recommend.,Positive,2024-12-03
+REV0509,CUST0087,BK00167,Hair Colour,5,The staff is very skilled and the ambience is lovely.,Positive,2025-12-26
+REV0510,CUST0079,BK04264,Facial,4,Best salon in Nellore! Will definitely come back.,Positive,2024-07-20
+REV0511,CUST0231,BK03556,Facial,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-05-19
+REV0512,CUST0168,BK02086,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-04-13
+REV0513,CUST0382,BK01164,Pedicure,2,Staff behaviour was very poor. Will not return.,Negative,2025-04-27
+REV0514,CUST0061,BK01574,Haircut,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-09-28
+REV0515,CUST0369,BK00753,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-07-11
+REV0516,CUST0357,BK02665,Hair Colour,5,Punctual and professional. My go-to salon from now on.,Positive,2025-06-06
+REV0517,CUST0350,BK03319,Facial,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-08-06
+REV0518,CUST0402,BK04636,Manicure,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-08-05
+REV0519,CUST0066,BK01824,Manicure,3,Average experience. The waiting time was a bit long.,Neutral,2024-08-09
+REV0520,CUST0346,BK01655,Hair Colour,4,The staff is very skilled and the ambience is lovely.,Positive,2025-01-14
+REV0521,CUST0431,BK03881,Manicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2026-02-22
+REV0522,CUST0154,BK00329,Hair Spa,5,Punctual and professional. My go-to salon from now on.,Positive,2024-12-24
+REV0523,CUST0472,BK02660,Hair Colour,4,The staff is very skilled and the ambience is lovely.,Positive,2026-03-06
+REV0524,CUST0487,BK02843,Waxing,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-10-23
+REV0525,CUST0168,BK04376,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2026-04-09
+REV0526,CUST0043,BK03691,Haircut,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-10-13
+REV0527,CUST0236,BK00851,Waxing,5,Punctual and professional. My go-to salon from now on.,Positive,2025-08-24
+REV0528,CUST0096,BK03025,Hair Spa,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-06-14
+REV0529,CUST0183,BK04521,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-07-21
+REV0530,CUST0497,BK02816,Haircut,5,The stylist was so professional and understood exactly what I wanted.,Positive,2026-03-07
+REV0531,CUST0457,BK04006,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-11-29
+REV0532,CUST0297,BK03840,Haircut,4,Best salon in Nellore! Will definitely come back.,Positive,2025-08-22
+REV0533,CUST0213,BK04326,Waxing,4,The staff is very skilled and the ambience is lovely.,Positive,2025-09-27
+REV0534,CUST0130,BK02545,Facial,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-21
+REV0535,CUST0291,BK00648,Hair Colour,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-09-09
+REV0536,CUST0114,BK03081,Facial,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-01-29
+REV0537,CUST0393,BK04331,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2026-02-15
+REV0538,CUST0293,BK02455,Facial,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-11-20
+REV0539,CUST0402,BK02221,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-04-14
+REV0540,CUST0200,BK01268,Pedicure,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-12-30
+REV0541,CUST0311,BK04657,Hair Colour,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-07-24
+REV0542,CUST0300,BK03387,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-03-27
+REV0543,CUST0427,BK00588,Bridal Package,4,Punctual and professional. My go-to salon from now on.,Positive,2025-11-16
+REV0544,CUST0224,BK03583,Hair Spa,5,Quick service and great results. Highly recommend.,Positive,2024-10-04
+REV0545,CUST0318,BK04923,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-04-19
+REV0546,CUST0195,BK00077,Waxing,3,Service was fine but the pricing is slightly high.,Neutral,2025-02-22
+REV0547,CUST0259,BK03389,Manicure,5,The staff is very skilled and the ambience is lovely.,Positive,2024-05-29
+REV0548,CUST0017,BK02165,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-07-31
+REV0549,CUST0341,BK00991,Facial,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-04-19
+REV0550,CUST0386,BK01410,Waxing,5,Punctual and professional. My go-to salon from now on.,Positive,2025-12-02
+REV0551,CUST0363,BK00956,Hair Colour,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-09-16
+REV0552,CUST0390,BK03378,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-11-22
+REV0553,CUST0057,BK00655,Hair Colour,1,Staff was unfriendly and unprofessional throughout.,Negative,2024-07-21
+REV0554,CUST0045,BK00571,Hair Colour,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-06-04
+REV0555,CUST0099,BK02863,Manicure,2,Waited too long. No one even apologised for the delay.,Negative,2026-03-15
+REV0556,CUST0242,BK00832,Waxing,1,The staff was rude and did not listen to my requirements.,Negative,2025-10-10
+REV0557,CUST0009,BK04595,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-09-04
+REV0558,CUST0423,BK00004,Facial,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-10-19
+REV0559,CUST0190,BK04769,Facial,4,Best salon in Nellore! Will definitely come back.,Positive,2025-05-19
+REV0560,CUST0313,BK04544,Waxing,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-09-21
+REV0561,CUST0074,BK02568,Hair Colour,4,Quick service and great results. Highly recommend.,Positive,2025-04-06
+REV0562,CUST0264,BK04222,Manicure,5,The staff is very skilled and the ambience is lovely.,Positive,2024-10-05
+REV0563,CUST0331,BK01335,Bridal Package,1,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2025-04-04
+REV0564,CUST0127,BK02256,Waxing,4,Best salon in Nellore! Will definitely come back.,Positive,2026-02-06
+REV0565,CUST0493,BK01573,Waxing,4,Punctual and professional. My go-to salon from now on.,Positive,2024-05-15
+REV0566,CUST0321,BK02339,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-06-26
+REV0567,CUST0270,BK04706,Manicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-12-02
+REV0568,CUST0188,BK02232,Waxing,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-05-29
+REV0569,CUST0299,BK00809,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-01-17
+REV0570,CUST0282,BK01350,Hair Colour,5,Quick service and great results. Highly recommend.,Positive,2026-01-13
+REV0571,CUST0465,BK00118,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-06-27
+REV0572,CUST0012,BK01659,Facial,4,The staff is very skilled and the ambience is lovely.,Positive,2025-07-27
+REV0573,CUST0115,BK00390,Hair Colour,2,Waiting time is too long. They don't respect appointments.,Negative,2024-09-28
+REV0574,CUST0052,BK01666,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2024-12-02
+REV0575,CUST0327,BK03037,Pedicure,3,"Mixed experience. Some services were great, others average.",Neutral,2025-05-27
+REV0576,CUST0415,BK03281,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-04-22
+REV0577,CUST0270,BK00850,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2025-11-27
+REV0578,CUST0188,BK01604,Hair Spa,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-09-30
+REV0579,CUST0065,BK04567,Haircut,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2026-04-04
+REV0580,CUST0456,BK01975,Haircut,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-12-08
+REV0581,CUST0136,BK02135,Hair Spa,4,Punctual and professional. My go-to salon from now on.,Positive,2025-11-29
+REV0582,CUST0166,BK04377,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2026-01-23
+REV0583,CUST0415,BK02160,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-05-02
+REV0584,CUST0001,BK02744,Manicure,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-12-25
+REV0585,CUST0184,BK02056,Pedicure,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-01-06
+REV0586,CUST0303,BK00898,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-04-07
+REV0587,CUST0169,BK01058,Hair Colour,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-05-10
+REV0588,CUST0018,BK00527,Manicure,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-03-17
+REV0589,CUST0057,BK00438,Manicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-05-30
+REV0590,CUST0370,BK00074,Manicure,1,Waited too long. No one even apologised for the delay.,Negative,2024-09-11
+REV0591,CUST0191,BK02644,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2026-04-22
+REV0592,CUST0453,BK00038,Pedicure,3,Service was fine but the pricing is slightly high.,Neutral,2025-09-04
+REV0593,CUST0355,BK03571,Bridal Package,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-01-05
+REV0594,CUST0094,BK03660,Facial,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-10-17
+REV0595,CUST0432,BK02356,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-04-06
+REV0596,CUST0286,BK01588,Facial,5,Best salon in Nellore! Will definitely come back.,Positive,2025-07-08
+REV0597,CUST0415,BK03102,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2026-04-07
+REV0598,CUST0297,BK01085,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-07-08
+REV0599,CUST0020,BK01178,Hair Colour,4,The staff is very skilled and the ambience is lovely.,Positive,2025-06-28
+REV0600,CUST0122,BK03735,Hair Spa,5,Quick service and great results. Highly recommend.,Positive,2025-12-22
+REV0601,CUST0482,BK03558,Hair Colour,1,Salon was not clean. Hygiene standards need serious improvement.,Negative,2025-09-27
+REV0602,CUST0405,BK02740,Haircut,2,Waiting time is too long. They don't respect appointments.,Negative,2026-03-02
+REV0603,CUST0261,BK03617,Facial,5,Best salon in Nellore! Will definitely come back.,Positive,2025-01-30
+REV0604,CUST0425,BK00056,Facial,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-09-17
+REV0605,CUST0103,BK00025,Haircut,1,The staff was rude and did not listen to my requirements.,Negative,2025-11-15
+REV0606,CUST0393,BK01471,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2025-12-06
+REV0607,CUST0447,BK00429,Waxing,4,The staff is very skilled and the ambience is lovely.,Positive,2025-11-09
+REV0608,CUST0043,BK04239,Hair Colour,4,The staff is very skilled and the ambience is lovely.,Positive,2024-09-27
+REV0609,CUST0066,BK00665,Hair Spa,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-10-21
+REV0610,CUST0405,BK01378,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2024-11-05
+REV0611,CUST0376,BK00317,Manicure,1,Waited too long. No one even apologised for the delay.,Negative,2025-09-14
+REV0612,CUST0450,BK01865,Hair Colour,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-11-08
+REV0613,CUST0272,BK00067,Hair Spa,4,The stylist was so professional and understood exactly what I wanted.,Positive,2026-04-28
+REV0614,CUST0268,BK03313,Waxing,1,The place needs better maintenance and cleanliness.,Negative,2024-11-25
+REV0615,CUST0033,BK00403,Waxing,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-02-15
+REV0616,CUST0169,BK03001,Haircut,2,Pricing is not transparent. Hidden charges were added at billing.,Negative,2026-01-22
+REV0617,CUST0472,BK02876,Hair Colour,5,Best salon in Nellore! Will definitely come back.,Positive,2024-08-29
+REV0618,CUST0271,BK03643,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-09-27
+REV0619,CUST0446,BK04446,Manicure,2,Waiting time is too long. They don't respect appointments.,Negative,2026-02-08
+REV0620,CUST0164,BK04755,Waxing,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-12-26
+REV0621,CUST0105,BK04109,Haircut,5,Quick service and great results. Highly recommend.,Positive,2024-09-19
+REV0622,CUST0389,BK04628,Waxing,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-06-29
+REV0623,CUST0103,BK04483,Hair Spa,5,The staff is very skilled and the ambience is lovely.,Positive,2026-02-19
+REV0624,CUST0137,BK01958,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2025-02-26
+REV0625,CUST0379,BK04007,Facial,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-07-08
+REV0626,CUST0225,BK02008,Pedicure,3,"Mixed experience. Some services were great, others average.",Neutral,2024-12-02
+REV0627,CUST0449,BK01881,Pedicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-10-08
+REV0628,CUST0095,BK01826,Haircut,2,The place needs better maintenance and cleanliness.,Negative,2026-01-31
+REV0629,CUST0388,BK01018,Facial,4,Punctual and professional. My go-to salon from now on.,Positive,2026-02-24
+REV0630,CUST0193,BK03479,Pedicure,4,The staff is very skilled and the ambience is lovely.,Positive,2026-03-13
+REV0631,CUST0306,BK02352,Manicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-01-16
+REV0632,CUST0066,BK02381,Manicure,5,The staff is very skilled and the ambience is lovely.,Positive,2025-12-18
+REV0633,CUST0294,BK02529,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2026-03-24
+REV0634,CUST0466,BK04361,Pedicure,1,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2025-10-20
+REV0635,CUST0297,BK04855,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-12-20
+REV0636,CUST0072,BK03411,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-10-26
+REV0637,CUST0178,BK02122,Haircut,2,The place needs better maintenance and cleanliness.,Negative,2024-08-08
+REV0638,CUST0239,BK02227,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-02-21
+REV0639,CUST0199,BK01594,Waxing,2,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2026-03-13
+REV0640,CUST0294,BK04233,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2024-11-13
+REV0641,CUST0328,BK01631,Hair Colour,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-12-16
+REV0642,CUST0039,BK00021,Manicure,5,Quick service and great results. Highly recommend.,Positive,2024-06-15
+REV0643,CUST0144,BK04410,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-08-11
+REV0644,CUST0461,BK00015,Waxing,5,Best salon in Nellore! Will definitely come back.,Positive,2026-04-28
+REV0645,CUST0209,BK01906,Pedicure,3,"Mixed experience. Some services were great, others average.",Neutral,2026-04-09
+REV0646,CUST0025,BK00353,Manicure,5,Best salon in Nellore! Will definitely come back.,Positive,2025-12-29
+REV0647,CUST0445,BK04282,Pedicure,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-07-10
+REV0648,CUST0169,BK01474,Pedicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-06-13
+REV0649,CUST0019,BK00011,Manicure,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-09-28
+REV0650,CUST0446,BK04446,Manicure,4,Amazing experience! My hair looks absolutely stunning.,Positive,2026-02-06
+REV0651,CUST0083,BK00712,Manicure,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2026-01-02
+REV0652,CUST0065,BK03215,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2026-04-25
+REV0653,CUST0069,BK02442,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2026-04-10
+REV0654,CUST0382,BK03061,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-01-25
+REV0655,CUST0356,BK00616,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2026-03-09
+REV0656,CUST0086,BK01337,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-01-13
+REV0657,CUST0354,BK03054,Facial,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-11
+REV0658,CUST0183,BK01406,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-12-03
+REV0659,CUST0098,BK01776,Pedicure,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-03-16
+REV0660,CUST0466,BK05000,Haircut,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-12-26
+REV0661,CUST0386,BK04580,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-12-31
+REV0662,CUST0224,BK00890,Hair Colour,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-12-23
+REV0663,CUST0204,BK03146,Haircut,4,Quick service and great results. Highly recommend.,Positive,2024-09-15
+REV0664,CUST0405,BK01378,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-11-03
+REV0665,CUST0347,BK01067,Facial,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-06-10
+REV0666,CUST0047,BK00340,Hair Spa,5,Punctual and professional. My go-to salon from now on.,Positive,2026-04-26
+REV0667,CUST0376,BK04545,Hair Spa,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-04-25
+REV0668,CUST0448,BK02486,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-12-13
+REV0669,CUST0393,BK01471,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-12-07
+REV0670,CUST0440,BK00854,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2026-01-27
+REV0671,CUST0332,BK04315,Waxing,5,Best salon in Nellore! Will definitely come back.,Positive,2025-10-20
+REV0672,CUST0246,BK01279,Hair Colour,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-08-23
+REV0673,CUST0376,BK04433,Facial,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-06-08
+REV0674,CUST0466,BK01753,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-12-25
+REV0675,CUST0166,BK03032,Manicure,2,The place needs better maintenance and cleanliness.,Negative,2024-06-09
+REV0676,CUST0071,BK00427,Hair Colour,4,Quick service and great results. Highly recommend.,Positive,2025-10-11
+REV0677,CUST0280,BK01971,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-12-11
+REV0678,CUST0081,BK00117,Facial,3,"Mixed experience. Some services were great, others average.",Neutral,2025-12-30
+REV0679,CUST0021,BK04394,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-07-19
+REV0680,CUST0360,BK01713,Manicure,3,Average experience. The waiting time was a bit long.,Neutral,2026-04-27
+REV0681,CUST0462,BK00766,Hair Spa,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-08-17
+REV0682,CUST0268,BK04974,Pedicure,3,Service was fine but the pricing is slightly high.,Neutral,2024-09-04
+REV0683,CUST0118,BK03768,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-08-11
+REV0684,CUST0274,BK02420,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-05-17
+REV0685,CUST0174,BK04069,Hair Colour,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-06-21
+REV0686,CUST0444,BK03782,Hair Colour,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-10-12
+REV0687,CUST0182,BK00063,Hair Spa,4,Best salon in Nellore! Will definitely come back.,Positive,2025-01-04
+REV0688,CUST0498,BK04403,Manicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-04-16
+REV0689,CUST0340,BK03326,Waxing,4,Quick service and great results. Highly recommend.,Positive,2026-01-26
+REV0690,CUST0097,BK01382,Pedicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-09-01
+REV0691,CUST0216,BK02894,Waxing,5,Best salon in Nellore! Will definitely come back.,Positive,2024-12-04
+REV0692,CUST0248,BK00185,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-06-08
+REV0693,CUST0425,BK04368,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-03-23
+REV0694,CUST0270,BK01556,Facial,2,Waiting time is too long. They don't respect appointments.,Negative,2024-05-10
+REV0695,CUST0245,BK01353,Hair Colour,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-11-12
+REV0696,CUST0058,BK01527,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-03-01
+REV0697,CUST0437,BK03075,Manicure,2,Pricing is not transparent. Hidden charges were added at billing.,Negative,2024-12-21
+REV0698,CUST0350,BK03597,Pedicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-11-26
+REV0699,CUST0377,BK03841,Hair Spa,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-05-22
+REV0700,CUST0382,BK01587,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2026-01-26
+REV0701,CUST0433,BK02503,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-07-17
+REV0702,CUST0252,BK01218,Facial,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-09-04
+REV0703,CUST0270,BK04706,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-12-03
+REV0704,CUST0031,BK03745,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-05-02
+REV0705,CUST0200,BK04425,Facial,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-13
+REV0706,CUST0341,BK04203,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-04-23
+REV0707,CUST0305,BK00508,Manicure,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-09-16
+REV0708,CUST0140,BK02460,Pedicure,4,Punctual and professional. My go-to salon from now on.,Positive,2024-09-13
+REV0709,CUST0375,BK02801,Manicure,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-04-23
+REV0710,CUST0035,BK03468,Hair Colour,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-02-22
+REV0711,CUST0023,BK04418,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-11-08
+REV0712,CUST0281,BK02733,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-01-24
+REV0713,CUST0360,BK04933,Hair Spa,4,Quick service and great results. Highly recommend.,Positive,2026-01-07
+REV0714,CUST0395,BK04910,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-08-26
+REV0715,CUST0087,BK00167,Hair Colour,1,The place needs better maintenance and cleanliness.,Negative,2025-12-25
+REV0716,CUST0354,BK00400,Facial,3,Service was fine but the pricing is slightly high.,Neutral,2025-10-09
+REV0717,CUST0075,BK02234,Waxing,3,Average experience. The waiting time was a bit long.,Neutral,2024-07-27
+REV0718,CUST0042,BK00444,Hair Spa,5,Outstanding service. The hair spa was so relaxing.,Positive,2026-01-15
+REV0719,CUST0009,BK03720,Manicure,4,Quick service and great results. Highly recommend.,Positive,2026-04-02
+REV0720,CUST0165,BK04332,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2025-12-26
+REV0721,CUST0234,BK02241,Manicure,5,Quick service and great results. Highly recommend.,Positive,2026-03-25
+REV0722,CUST0074,BK01031,Waxing,4,The stylist was so professional and understood exactly what I wanted.,Positive,2026-01-14
+REV0723,CUST0287,BK04043,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-05-31
+REV0724,CUST0463,BK04920,Hair Spa,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-09-23
+REV0725,CUST0114,BK03348,Facial,4,The staff is very skilled and the ambience is lovely.,Positive,2025-03-12
+REV0726,CUST0118,BK04863,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-25
+REV0727,CUST0461,BK00015,Waxing,5,The stylist was so professional and understood exactly what I wanted.,Positive,2026-04-30
+REV0728,CUST0387,BK00052,Haircut,4,The staff is very skilled and the ambience is lovely.,Positive,2024-11-15
+REV0729,CUST0295,BK03274,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-08-15
+REV0730,CUST0364,BK04726,Bridal Package,3,Service was fine but the pricing is slightly high.,Neutral,2025-11-17
+REV0731,CUST0268,BK03658,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2025-04-12
+REV0732,CUST0186,BK03186,Haircut,4,Quick service and great results. Highly recommend.,Positive,2025-11-01
+REV0733,CUST0272,BK04586,Hair Spa,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-10-04
+REV0734,CUST0367,BK03805,Hair Colour,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-05-14
+REV0735,CUST0268,BK04229,Facial,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-12-09
+REV0736,CUST0036,BK00954,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-05-14
+REV0737,CUST0089,BK04220,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-08-15
+REV0738,CUST0367,BK01540,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-05-26
+REV0739,CUST0130,BK03938,Pedicure,2,The place needs better maintenance and cleanliness.,Negative,2024-06-06
+REV0740,CUST0465,BK02002,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-10-31
+REV0741,CUST0496,BK01980,Haircut,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2024-11-30
+REV0742,CUST0289,BK03382,Hair Colour,5,The staff is very skilled and the ambience is lovely.,Positive,2025-08-07
+REV0743,CUST0245,BK01353,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2025-11-10
+REV0744,CUST0481,BK01597,Facial,1,The hair colour applied was completely wrong. Very disappointed.,Negative,2024-10-30
+REV0745,CUST0216,BK00533,Facial,2,Staff behaviour was very poor. Will not return.,Negative,2024-07-09
+REV0746,CUST0468,BK00044,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-12-10
+REV0747,CUST0121,BK02411,Hair Spa,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-06-24
+REV0748,CUST0457,BK00555,Facial,1,The place needs better maintenance and cleanliness.,Negative,2024-06-22
+REV0749,CUST0257,BK01292,Hair Colour,5,Best salon in Nellore! Will definitely come back.,Positive,2026-01-05
+REV0750,CUST0466,BK02308,Facial,5,Punctual and professional. My go-to salon from now on.,Positive,2025-08-02
+REV0751,CUST0327,BK03112,Facial,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-07
+REV0752,CUST0052,BK02937,Bridal Package,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-05-16
+REV0753,CUST0102,BK04782,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-04-07
+REV0754,CUST0401,BK00109,Haircut,1,Staff was unfriendly and unprofessional throughout.,Negative,2025-08-18
+REV0755,CUST0294,BK02529,Manicure,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-03-23
+REV0756,CUST0437,BK01204,Facial,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-10-17
+REV0757,CUST0222,BK01122,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2025-04-27
+REV0758,CUST0256,BK02512,Pedicure,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-10-28
+REV0759,CUST0035,BK01737,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-01-09
+REV0760,CUST0445,BK04282,Pedicure,1,The staff was rude and did not listen to my requirements.,Negative,2024-07-10
+REV0761,CUST0482,BK02778,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-05-06
+REV0762,CUST0378,BK00266,Pedicure,4,Punctual and professional. My go-to salon from now on.,Positive,2025-01-03
+REV0763,CUST0463,BK01620,Pedicure,2,Too expensive compared to other salons in the area.,Negative,2026-04-16
+REV0764,CUST0043,BK03039,Hair Spa,4,The staff is very skilled and the ambience is lovely.,Positive,2024-08-30
+REV0765,CUST0474,BK01457,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-01-09
+REV0766,CUST0487,BK03491,Pedicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-03-11
+REV0767,CUST0165,BK02424,Hair Spa,3,"Mixed experience. Some services were great, others average.",Neutral,2025-08-03
+REV0768,CUST0244,BK04730,Hair Colour,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2025-09-09
+REV0769,CUST0186,BK03254,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-09-08
+REV0770,CUST0240,BK03769,Pedicure,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-06-29
+REV0771,CUST0473,BK04057,Pedicure,5,Quick service and great results. Highly recommend.,Positive,2024-05-10
+REV0772,CUST0285,BK00221,Hair Colour,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-10-17
+REV0773,CUST0277,BK03865,Hair Spa,3,Service was fine but the pricing is slightly high.,Neutral,2025-11-05
+REV0774,CUST0302,BK00345,Haircut,4,Punctual and professional. My go-to salon from now on.,Positive,2025-05-20
+REV0775,CUST0365,BK00479,Waxing,4,Punctual and professional. My go-to salon from now on.,Positive,2024-11-14
+REV0776,CUST0341,BK03664,Hair Colour,3,Average experience. The waiting time was a bit long.,Neutral,2026-01-30
+REV0777,CUST0233,BK01799,Waxing,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-07-25
+REV0778,CUST0202,BK03118,Hair Colour,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-11-08
+REV0779,CUST0057,BK01550,Bridal Package,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-01-19
+REV0780,CUST0089,BK01258,Facial,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-25
+REV0781,CUST0226,BK04131,Hair Colour,3,"Mixed experience. Some services were great, others average.",Neutral,2025-12-13
+REV0782,CUST0357,BK02155,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2025-05-17
+REV0783,CUST0484,BK00635,Waxing,5,Quick service and great results. Highly recommend.,Positive,2025-08-17
+REV0784,CUST0256,BK02512,Pedicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-10-28
+REV0785,CUST0221,BK04939,Manicure,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2026-05-02
+REV0786,CUST0355,BK03209,Pedicure,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-11-24
+REV0787,CUST0295,BK04742,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-08-16
+REV0788,CUST0464,BK04838,Waxing,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-01-25
+REV0789,CUST0193,BK04132,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-12-27
+REV0790,CUST0171,BK02605,Haircut,5,Quick service and great results. Highly recommend.,Positive,2026-04-15
+REV0791,CUST0080,BK03449,Facial,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-07-16
+REV0792,CUST0164,BK03086,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-05-11
+REV0793,CUST0069,BK02442,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2026-04-09
+REV0794,CUST0150,BK03919,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2026-02-01
+REV0795,CUST0429,BK04766,Manicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-05-16
+REV0796,CUST0470,BK00987,Hair Spa,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-05-16
+REV0797,CUST0268,BK03658,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2025-04-14
+REV0798,CUST0183,BK01859,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2024-11-19
+REV0799,CUST0494,BK03219,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2024-06-10
+REV0800,CUST0211,BK03310,Manicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-04-14
+REV0801,CUST0068,BK03367,Hair Spa,2,Waiting time is too long. They don't respect appointments.,Negative,2025-01-01
+REV0802,CUST0223,BK01768,Manicure,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-04-18
+REV0803,CUST0351,BK03951,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-11-06
+REV0804,CUST0018,BK00240,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-06-08
+REV0805,CUST0064,BK04756,Facial,5,Punctual and professional. My go-to salon from now on.,Positive,2025-10-09
+REV0806,CUST0272,BK01581,Hair Colour,5,Quick service and great results. Highly recommend.,Positive,2025-03-11
+REV0807,CUST0270,BK01376,Waxing,5,The staff is very skilled and the ambience is lovely.,Positive,2025-08-08
+REV0808,CUST0081,BK02025,Bridal Package,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-09-20
+REV0809,CUST0215,BK03317,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2026-04-18
+REV0810,CUST0290,BK04961,Waxing,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-05-17
+REV0811,CUST0245,BK04671,Hair Spa,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-04-29
+REV0812,CUST0315,BK01192,Haircut,4,Best salon in Nellore! Will definitely come back.,Positive,2025-10-15
+REV0813,CUST0162,BK03878,Hair Colour,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-07-05
+REV0814,CUST0498,BK04703,Manicure,5,Punctual and professional. My go-to salon from now on.,Positive,2026-01-27
+REV0815,CUST0189,BK01435,Haircut,2,The staff was rude and did not listen to my requirements.,Negative,2024-05-12
+REV0816,CUST0382,BK04599,Hair Colour,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-02-25
+REV0817,CUST0426,BK03078,Hair Spa,4,Punctual and professional. My go-to salon from now on.,Positive,2024-06-06
+REV0818,CUST0042,BK02898,Facial,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-05-06
+REV0819,CUST0081,BK03784,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-05-27
+REV0820,CUST0257,BK02840,Manicure,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-10-22
+REV0821,CUST0116,BK04250,Bridal Package,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-10-16
+REV0822,CUST0259,BK01214,Haircut,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-03-01
+REV0823,CUST0458,BK01629,Waxing,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-06-22
+REV0824,CUST0481,BK03097,Pedicure,2,Pricing is not transparent. Hidden charges were added at billing.,Negative,2026-01-31
+REV0825,CUST0025,BK02102,Waxing,4,Punctual and professional. My go-to salon from now on.,Positive,2024-09-06
+REV0826,CUST0224,BK01644,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-05-30
+REV0827,CUST0178,BK01836,Manicure,2,Overpriced for the quality of service provided.,Negative,2026-02-25
+REV0828,CUST0247,BK02125,Waxing,3,"Mixed experience. Some services were great, others average.",Neutral,2025-10-08
+REV0829,CUST0421,BK00218,Waxing,1,The place needs better maintenance and cleanliness.,Negative,2026-03-06
+REV0830,CUST0358,BK00319,Facial,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-10
+REV0831,CUST0378,BK04399,Manicure,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-07-29
+REV0832,CUST0171,BK02846,Haircut,5,Punctual and professional. My go-to salon from now on.,Positive,2025-08-10
+REV0833,CUST0099,BK02863,Manicure,4,The staff is very skilled and the ambience is lovely.,Positive,2026-03-17
+REV0834,CUST0303,BK02388,Hair Spa,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-10-02
+REV0835,CUST0431,BK03881,Manicure,1,The hair colour applied was completely wrong. Very disappointed.,Negative,2026-02-22
+REV0836,CUST0106,BK04301,Haircut,3,Service was fine but the pricing is slightly high.,Neutral,2026-01-21
+REV0837,CUST0347,BK01381,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-07-19
+REV0838,CUST0394,BK00979,Pedicure,3,Service was fine but the pricing is slightly high.,Neutral,2024-07-13
+REV0839,CUST0215,BK01259,Pedicure,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2025-05-09
+REV0840,CUST0215,BK03317,Hair Colour,1,Waiting time is too long. They don't respect appointments.,Negative,2026-04-20
+REV0841,CUST0396,BK02550,Hair Spa,4,Great value for money. Very satisfied with the facial treatment.,Positive,2025-12-03
+REV0842,CUST0054,BK04534,Waxing,1,The staff was rude and did not listen to my requirements.,Negative,2025-05-17
+REV0843,CUST0480,BK03362,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-16
+REV0844,CUST0288,BK00394,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2024-08-10
+REV0845,CUST0101,BK01028,Manicure,2,Waited too long. No one even apologised for the delay.,Negative,2025-04-10
+REV0846,CUST0297,BK03501,Waxing,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-05-03
+REV0847,CUST0434,BK02548,Haircut,5,Quick service and great results. Highly recommend.,Positive,2025-03-03
+REV0848,CUST0391,BK02612,Hair Spa,3,Average experience. The waiting time was a bit long.,Neutral,2025-01-16
+REV0849,CUST0364,BK02461,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2024-09-27
+REV0850,CUST0215,BK00747,Waxing,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-09-05
+REV0851,CUST0088,BK02446,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-01-06
+REV0852,CUST0224,BK02484,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-08-19
+REV0853,CUST0200,BK00777,Facial,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-12
+REV0854,CUST0352,BK02779,Facial,4,The staff is very skilled and the ambience is lovely.,Positive,2024-07-01
+REV0855,CUST0260,BK03537,Waxing,2,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2025-06-25
+REV0856,CUST0287,BK02415,Manicure,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-07-17
+REV0857,CUST0037,BK00173,Haircut,3,Average experience. The waiting time was a bit long.,Neutral,2025-12-13
+REV0858,CUST0039,BK02315,Haircut,2,Overpriced for the quality of service provided.,Negative,2025-07-17
+REV0859,CUST0059,BK04070,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-07-10
+REV0860,CUST0229,BK01300,Bridal Package,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-10-29
+REV0861,CUST0063,BK01519,Hair Colour,4,Quick service and great results. Highly recommend.,Positive,2026-03-14
+REV0862,CUST0286,BK00284,Pedicure,2,The place needs better maintenance and cleanliness.,Negative,2024-09-19
+REV0863,CUST0148,BK03986,Hair Colour,2,Waiting time is too long. They don't respect appointments.,Negative,2024-07-05
+REV0864,CUST0314,BK02188,Hair Spa,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-11-09
+REV0865,CUST0415,BK01601,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-03-18
+REV0866,CUST0416,BK01206,Manicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-12-29
+REV0867,CUST0326,BK02158,Facial,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-04-25
+REV0868,CUST0140,BK01147,Facial,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-12-12
+REV0869,CUST0292,BK03614,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-04-01
+REV0870,CUST0092,BK03329,Hair Spa,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-01-19
+REV0871,CUST0148,BK02212,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2025-10-06
+REV0872,CUST0016,BK04811,Haircut,5,Best salon in Nellore! Will definitely come back.,Positive,2025-03-21
+REV0873,CUST0434,BK00113,Hair Spa,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-09-13
+REV0874,CUST0046,BK04546,Bridal Package,5,Quick service and great results. Highly recommend.,Positive,2025-03-15
+REV0875,CUST0172,BK00222,Pedicure,5,The staff is very skilled and the ambience is lovely.,Positive,2025-04-07
+REV0876,CUST0308,BK04105,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-05-04
+REV0877,CUST0013,BK01752,Hair Colour,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-08
+REV0878,CUST0174,BK04069,Hair Colour,1,Staff was unfriendly and unprofessional throughout.,Negative,2025-06-22
+REV0879,CUST0383,BK04195,Haircut,4,Great value for money. Very satisfied with the facial treatment.,Positive,2024-07-15
+REV0880,CUST0249,BK02713,Hair Spa,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-09-06
+REV0881,CUST0100,BK01827,Haircut,1,Overpriced for the quality of service provided.,Negative,2025-02-13
+REV0882,CUST0167,BK03799,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-12-23
+REV0883,CUST0215,BK02261,Hair Spa,4,Best salon in Nellore! Will definitely come back.,Positive,2026-04-04
+REV0884,CUST0140,BK00696,Haircut,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-04-04
+REV0885,CUST0117,BK02608,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-04-06
+REV0886,CUST0140,BK01619,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-04-14
+REV0887,CUST0315,BK03929,Manicure,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-11-25
+REV0888,CUST0412,BK01743,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-09-11
+REV0889,CUST0466,BK03162,Hair Spa,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-04-25
+REV0890,CUST0096,BK03025,Hair Spa,4,The stylist was so professional and understood exactly what I wanted.,Positive,2024-06-12
+REV0891,CUST0291,BK03728,Pedicure,4,Quick service and great results. Highly recommend.,Positive,2024-07-04
+REV0892,CUST0227,BK00152,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-03-17
+REV0893,CUST0325,BK03045,Pedicure,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-10-12
+REV0894,CUST0355,BK04594,Pedicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-10-12
+REV0895,CUST0269,BK02632,Haircut,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-06-28
+REV0896,CUST0091,BK02013,Haircut,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-12-21
+REV0897,CUST0297,BK04814,Manicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-11-21
+REV0898,CUST0108,BK01928,Waxing,3,"Mixed experience. Some services were great, others average.",Neutral,2025-06-03
+REV0899,CUST0459,BK01965,Hair Colour,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-07-04
+REV0900,CUST0405,BK00782,Waxing,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-02-26
+REV0901,CUST0324,BK00456,Waxing,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-08-23
+REV0902,CUST0105,BK04109,Haircut,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-09-19
+REV0903,CUST0086,BK00746,Hair Colour,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-05-20
+REV0904,CUST0001,BK02084,Haircut,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-02-11
+REV0905,CUST0400,BK02711,Haircut,5,Quick service and great results. Highly recommend.,Positive,2026-02-14
+REV0906,CUST0055,BK03744,Hair Colour,5,Quick service and great results. Highly recommend.,Positive,2025-02-08
+REV0907,CUST0382,BK04599,Hair Colour,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-02-23
+REV0908,CUST0012,BK04892,Bridal Package,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-12-27
+REV0909,CUST0339,BK01006,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-10-11
+REV0910,CUST0487,BK00150,Facial,5,Great value for money. Very satisfied with the facial treatment.,Positive,2025-12-12
+REV0911,CUST0362,BK04373,Hair Spa,2,The staff was rude and did not listen to my requirements.,Negative,2025-11-29
+REV0912,CUST0410,BK02631,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-11-04
+REV0913,CUST0455,BK02116,Pedicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-01-19
+REV0914,CUST0485,BK03940,Waxing,4,Excellent bridal package. Made my wedding day perfect!,Positive,2024-07-27
+REV0915,CUST0122,BK04638,Hair Spa,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-11-05
+REV0916,CUST0096,BK01123,Hair Colour,5,The stylist was so professional and understood exactly what I wanted.,Positive,2026-01-22
+REV0917,CUST0252,BK00474,Manicure,4,Punctual and professional. My go-to salon from now on.,Positive,2025-06-28
+REV0918,CUST0393,BK00171,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-01-30
+REV0919,CUST0285,BK00748,Waxing,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2024-09-17
+REV0920,CUST0138,BK00196,Hair Colour,2,The hair colour applied was completely wrong. Very disappointed.,Negative,2025-05-07
+REV0921,CUST0318,BK02715,Facial,1,Overpriced for the quality of service provided.,Negative,2025-06-10
+REV0922,CUST0497,BK00876,Manicure,4,Quick service and great results. Highly recommend.,Positive,2026-02-17
+REV0923,CUST0241,BK04417,Manicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-09-18
+REV0924,CUST0460,BK02378,Haircut,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-09-16
+REV0925,CUST0184,BK01136,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2024-09-24
+REV0926,CUST0219,BK03469,Facial,3,"Mixed experience. Some services were great, others average.",Neutral,2025-12-23
+REV0927,CUST0437,BK00524,Facial,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-08-22
+REV0928,CUST0156,BK00811,Hair Spa,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-12-14
+REV0929,CUST0401,BK02397,Waxing,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-02-25
+REV0930,CUST0172,BK02384,Bridal Package,5,The stylist was so professional and understood exactly what I wanted.,Positive,2024-10-19
+REV0931,CUST0364,BK03791,Haircut,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-06-09
+REV0932,CUST0032,BK00388,Manicure,4,Great value for money. Very satisfied with the facial treatment.,Positive,2026-03-27
+REV0933,CUST0297,BK01085,Haircut,2,Waited too long. No one even apologised for the delay.,Negative,2024-07-08
+REV0934,CUST0352,BK04783,Pedicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-02-25
+REV0935,CUST0442,BK03049,Haircut,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-05-23
+REV0936,CUST0474,BK02891,Waxing,2,Waited 45 minutes beyond my appointment time. Very unprofessional.,Negative,2025-01-20
+REV0937,CUST0361,BK02888,Facial,4,The stylist was so professional and understood exactly what I wanted.,Positive,2026-04-24
+REV0938,CUST0349,BK04263,Pedicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-04-08
+REV0939,CUST0229,BK04844,Manicure,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2025-10-20
+REV0940,CUST0469,BK04550,Waxing,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2025-02-01
+REV0941,CUST0175,BK04387,Haircut,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-11-22
+REV0942,CUST0352,BK04526,Haircut,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-06-21
+REV0943,CUST0056,BK02171,Hair Colour,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2026-01-30
+REV0944,CUST0002,BK01954,Pedicure,3,"Mixed experience. Some services were great, others average.",Neutral,2025-06-20
+REV0945,CUST0347,BK01381,Haircut,5,The staff is very skilled and the ambience is lovely.,Positive,2025-07-17
+REV0946,CUST0357,BK02369,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-02-13
+REV0947,CUST0493,BK00925,Waxing,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2025-07-17
+REV0948,CUST0225,BK03599,Pedicure,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-05-25
+REV0949,CUST0493,BK00925,Waxing,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-07-17
+REV0950,CUST0036,BK03471,Hair Colour,4,The staff is very skilled and the ambience is lovely.,Positive,2025-05-31
+REV0951,CUST0178,BK02277,Haircut,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-01-18
+REV0952,CUST0114,BK00951,Hair Spa,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-12-31
+REV0953,CUST0471,BK04996,Haircut,4,Punctual and professional. My go-to salon from now on.,Positive,2025-04-05
+REV0954,CUST0011,BK04966,Hair Colour,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-12-17
+REV0955,CUST0206,BK00980,Waxing,4,Punctual and professional. My go-to salon from now on.,Positive,2025-04-30
+REV0956,CUST0432,BK00276,Hair Colour,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-07-17
+REV0957,CUST0395,BK03426,Haircut,4,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2024-09-24
+REV0958,CUST0288,BK01413,Manicure,5,Punctual and professional. My go-to salon from now on.,Positive,2025-09-15
+REV0959,CUST0309,BK04672,Waxing,5,The staff is very skilled and the ambience is lovely.,Positive,2025-04-09
+REV0960,CUST0282,BK00404,Pedicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-09-04
+REV0961,CUST0403,BK02741,Haircut,3,"Mixed experience. Some services were great, others average.",Neutral,2024-05-19
+REV0962,CUST0324,BK00073,Waxing,4,Outstanding service. The hair spa was so relaxing.,Positive,2025-08-10
+REV0963,CUST0063,BK02480,Hair Colour,4,Amazing experience! My hair looks absolutely stunning.,Positive,2025-06-13
+REV0964,CUST0024,BK00739,Facial,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-08-15
+REV0965,CUST0282,BK03587,Waxing,4,Amazing experience! My hair looks absolutely stunning.,Positive,2024-09-12
+REV0966,CUST0035,BK01737,Haircut,5,Great value for money. Very satisfied with the facial treatment.,Positive,2026-01-08
+REV0967,CUST0001,BK04164,Hair Colour,5,Excellent bridal package. Made my wedding day perfect!,Positive,2024-07-10
+REV0968,CUST0068,BK02185,Haircut,4,Excellent bridal package. Made my wedding day perfect!,Positive,2025-04-26
+REV0969,CUST0079,BK01929,Manicure,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-09-07
+REV0970,CUST0352,BK00469,Haircut,4,Punctual and professional. My go-to salon from now on.,Positive,2026-04-25
+REV0971,CUST0154,BK00329,Hair Spa,5,Amazing experience! My hair looks absolutely stunning.,Positive,2024-12-24
+REV0972,CUST0370,BK00074,Manicure,4,The staff is very skilled and the ambience is lovely.,Positive,2024-09-11
+REV0973,CUST0336,BK01076,Hair Colour,5,Punctual and professional. My go-to salon from now on.,Positive,2024-10-06
+REV0974,CUST0274,BK02420,Haircut,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-05-17
+REV0975,CUST0368,BK03353,Pedicure,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-08-14
+REV0976,CUST0303,BK00157,Haircut,5,Quick service and great results. Highly recommend.,Positive,2024-07-19
+REV0977,CUST0477,BK00355,Haircut,4,The stylist was so professional and understood exactly what I wanted.,Positive,2025-11-17
+REV0978,CUST0080,BK03195,Hair Spa,3,Average experience. The waiting time was a bit long.,Neutral,2026-03-15
+REV0979,CUST0157,BK00492,Bridal Package,5,The stylist was so professional and understood exactly what I wanted.,Positive,2025-01-26
+REV0980,CUST0198,BK04925,Pedicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2024-11-28
+REV0981,CUST0114,BK01052,Facial,5,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2024-06-28
+REV0982,CUST0034,BK01520,Hair Colour,5,Amazing experience! My hair looks absolutely stunning.,Positive,2026-03-18
+REV0983,CUST0189,BK02450,Waxing,5,Very friendly staff. They made me feel comfortable throughout.,Positive,2025-07-19
+REV0984,CUST0167,BK03838,Waxing,5,Punctual and professional. My go-to salon from now on.,Positive,2025-10-14
+REV0985,CUST0375,BK04962,Facial,4,Best salon in Nellore! Will definitely come back.,Positive,2024-10-24
+REV0986,CUST0107,BK02992,Waxing,4,Outstanding service. The hair spa was so relaxing.,Positive,2024-11-06
+REV0987,CUST0308,BK04346,Pedicure,5,Very clean and hygienic salon. Staff was warm and welcoming.,Positive,2026-03-17
+REV0988,CUST0480,BK04708,Waxing,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2026-01-05
+REV0989,CUST0281,BK01459,Haircut,4,Punctual and professional. My go-to salon from now on.,Positive,2024-11-11
+REV0990,CUST0414,BK00223,Hair Spa,4,Excellent bridal package. Made my wedding day perfect!,Positive,2026-01-25
+REV0991,CUST0302,BK02515,Hair Spa,5,Quick service and great results. Highly recommend.,Positive,2024-08-07
+REV0992,CUST0123,BK02627,Manicure,4,Very friendly staff. They made me feel comfortable throughout.,Positive,2024-08-04
+REV0993,CUST0410,BK01628,Hair Spa,4,Loved my haircut. The colouring came out exactly as I imagined.,Positive,2026-03-05
+REV0994,CUST0407,BK02198,Waxing,5,Amazing experience! My hair looks absolutely stunning.,Positive,2025-03-17
+REV0995,CUST0330,BK03211,Hair Colour,4,The staff is very skilled and the ambience is lovely.,Positive,2026-01-02
+REV0996,CUST0316,BK03641,Hair Colour,1,Pricing is not transparent. Hidden charges were added at billing.,Negative,2024-08-17
+REV0997,CUST0270,BK04706,Manicure,5,Outstanding service. The hair spa was so relaxing.,Positive,2025-12-04
+REV0998,CUST0290,BK01733,Hair Spa,5,Excellent bridal package. Made my wedding day perfect!,Positive,2025-05-21
+REV0999,CUST0063,BK00243,Hair Spa,3,"Decent salon. Service was okay, nothing extraordinary.",Neutral,2024-09-10
+REV1000,CUST0007,BK01884,Waxing,3,Okay salon. Stylist was good but the ambience needs improvement.,Neutral,2024-08-26
